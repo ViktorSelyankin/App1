@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">App1</string>
+    <string name="button">Button</string>
+    <string name="about_text">
+    Умрешь, начнешь опять сначала;\\n
+    И повториться все как встарь\\n
+   Ночь, ледяная гладь канала\\n
+    Аптека\\n
+    Улица\\n
+    Фонарь</string>
+</resources>
